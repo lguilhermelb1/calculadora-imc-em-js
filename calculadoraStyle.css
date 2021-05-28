@@ -1,0 +1,31 @@
+.container {
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px;
+    background-color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    width: 480px;
+}
+
+.container-calculadora-peso, .container-calculadora-altura {
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.input-number {
+    height: 30px;
+    width: 100px;
+    font-size: 24px;
+}
+
+.botao-calcular {
+    font-size: 18px;
+    width: 80%;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: cadetblue;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
